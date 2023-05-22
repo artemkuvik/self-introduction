@@ -17,4 +17,4 @@ but now I can do it easily.
 The only thing is that there is not always time, 
 since I work on a rotational basis. 
 I confidently know layout and javascript, 
-I want to quickly learn react and start looking for work and orders..
+I want to quickly learn react and start looking for work and orders!!!
